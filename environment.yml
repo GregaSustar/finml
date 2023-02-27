@@ -1,0 +1,10 @@
+name: finml
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.23.5
+  - matplotlib>=3.62
+  - pandas>=1.5.2
+  - cython>=0.29.33
+  - dask>=2022.05.0
